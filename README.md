@@ -1,0 +1,2 @@
+# Deep-Learning-for-Computer-Vision-with-Tensorflow-Projects
+The projects are centered around the utilization of DL in the field of CV, incorporating concepts such as basic CNNs, ANNs utilizing dense layers, and more. Moving into advanced topics, the projects delve into architectures specific to computer vision such as ResNet, the implementation of custom layers, and the integration of residual blocks.
